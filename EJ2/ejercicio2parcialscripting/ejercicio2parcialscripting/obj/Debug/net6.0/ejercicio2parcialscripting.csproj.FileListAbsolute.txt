@@ -1,0 +1,15 @@
+D:\Documents\La U v2\scrit\ejercicio2parcialscripting\ejercicio2parcialscripting\bin\Debug\net6.0\ejercicio2parcialscripting.exe
+D:\Documents\La U v2\scrit\ejercicio2parcialscripting\ejercicio2parcialscripting\bin\Debug\net6.0\ejercicio2parcialscripting.deps.json
+D:\Documents\La U v2\scrit\ejercicio2parcialscripting\ejercicio2parcialscripting\bin\Debug\net6.0\ejercicio2parcialscripting.runtimeconfig.json
+D:\Documents\La U v2\scrit\ejercicio2parcialscripting\ejercicio2parcialscripting\bin\Debug\net6.0\ejercicio2parcialscripting.dll
+D:\Documents\La U v2\scrit\ejercicio2parcialscripting\ejercicio2parcialscripting\bin\Debug\net6.0\ejercicio2parcialscripting.pdb
+D:\Documents\La U v2\scrit\ejercicio2parcialscripting\ejercicio2parcialscripting\obj\Debug\net6.0\ejercicio2parcialscripting.csproj.AssemblyReference.cache
+D:\Documents\La U v2\scrit\ejercicio2parcialscripting\ejercicio2parcialscripting\obj\Debug\net6.0\ejercicio2parcialscripting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\La U v2\scrit\ejercicio2parcialscripting\ejercicio2parcialscripting\obj\Debug\net6.0\ejercicio2parcialscripting.AssemblyInfoInputs.cache
+D:\Documents\La U v2\scrit\ejercicio2parcialscripting\ejercicio2parcialscripting\obj\Debug\net6.0\ejercicio2parcialscripting.AssemblyInfo.cs
+D:\Documents\La U v2\scrit\ejercicio2parcialscripting\ejercicio2parcialscripting\obj\Debug\net6.0\ejercicio2parcialscripting.csproj.CoreCompileInputs.cache
+D:\Documents\La U v2\scrit\ejercicio2parcialscripting\ejercicio2parcialscripting\obj\Debug\net6.0\ejercicio2parcialscripting.dll
+D:\Documents\La U v2\scrit\ejercicio2parcialscripting\ejercicio2parcialscripting\obj\Debug\net6.0\refint\ejercicio2parcialscripting.dll
+D:\Documents\La U v2\scrit\ejercicio2parcialscripting\ejercicio2parcialscripting\obj\Debug\net6.0\ejercicio2parcialscripting.pdb
+D:\Documents\La U v2\scrit\ejercicio2parcialscripting\ejercicio2parcialscripting\obj\Debug\net6.0\ejercicio2parcialscripting.genruntimeconfig.cache
+D:\Documents\La U v2\scrit\ejercicio2parcialscripting\ejercicio2parcialscripting\obj\Debug\net6.0\ref\ejercicio2parcialscripting.dll
