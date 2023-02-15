@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            PesoArgentino argentino = new PesoArgentino(5, 3.5F, "niquel");
-            Dolar gringo = new Dolar(3, 3.0F, "bronce");
-            Libra europeo = new Libra(6, 4.0F, "latón");
+            Moneda argentino = new PesoArgentino(5, 3.5F, "niquel");
+            Moneda gringo = new Dolar(3, 3.0F, "bronce");
+            Moneda europeo = new Libra(6, 4.0F, "latón");
 
             int indice = 1;
 

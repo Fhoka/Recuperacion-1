@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace Recuperacion
 {
-    public class Gaseosa
+    public class Gaseosa : Bebida
     {
+        public Gaseosa(string ingredientes, float temperatura, bool pitillos, string color, float cantidad) : base(ingredientes, 
+            temperatura, pitillos, color, cantidad)
+        {
+        }
+
+        public string Destapar()
+        {
+            return null;
+        }
     }
 }

@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace Recuperacion
 {
-    public class Manzana
+    public class Manzana : Gaseosa
     {
+        private bool navidad;
+        public Manzana(bool navidad, string ingredientes, float temperatura, bool pitillos, string color, 
+            float cantidad) : base(ingredientes, temperatura, pitillos, color, cantidad)
+        {
+            Navidad= navidad;
+        }
+
+        public bool Navidad { get => navidad; set => navidad = value; }
     }
 }

@@ -22,11 +22,6 @@ namespace Recuperacion
             Pitillos = pitillos;
             Color = color;
             Cantidad = cantidad;
-            Ingredientes = ingredientes;
-            Temperatura = temperatura;
-            Pitillos = pitillos;
-            Color = color;
-            Cantidad = cantidad;
         }
 
         public string Ingredientes { get => ingredientes; set => ingredientes = value; }
@@ -36,14 +31,14 @@ namespace Recuperacion
         public float Cantidad { get => Cantidad1; set => Cantidad1 = value; }
         public float Cantidad1 { get => cantidad; set => cantidad = value; }
 
-        public void Preparacion()
+        public void Preparacion(float temperatura)
         {
-
+            Console.WriteLine("Se saca de la nevera a "+temperatura+"°");
         }
 
-        public void Servir()
+        public virtual void Servir()
         {
-
+            Console.WriteLine("La bebida está servida");
         }
     }
 }
