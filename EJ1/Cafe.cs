@@ -15,7 +15,7 @@ namespace Recuperacion
 
         public string AgregarAzucar(string ingredientes)
         {
-            return null;
+            return "Tu bebida fue endulzada con " + ingredientes;
         }
     }
 }

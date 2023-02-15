@@ -33,7 +33,7 @@ namespace Recuperacion
 
         public void Preparacion(float temperatura)
         {
-            Console.WriteLine("Se saca de la nevera a "+temperatura+"°");
+            Console.WriteLine("Se saca de la nevera a "+temperatura+"°C");
         }
 
         public virtual void Servir()

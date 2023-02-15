@@ -15,7 +15,7 @@ namespace Recuperacion
 
         public string Destapar()
         {
-            return null;
+            return "Bebida Destapada ";
         }
     }
 }

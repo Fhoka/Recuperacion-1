@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace Recuperacion
 {
-    public interface Interface
+    public interface IPicante
     {
-        interface CalcularPicante
-        {
-        }
+        void CalcularPicante(bool b);
+
     }
 }
